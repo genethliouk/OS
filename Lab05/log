@@ -1,0 +1,34 @@
+/home/kgenethli/Lab05
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+log
+-bash: cd: /path/to/directory: No such file or directory
+stat: cannot stat 'filename': No such file or directory
+cp: cannot stat 'source.txt': No such file or directory
+stat: cannot stat 'filename': No such file or directory
+  File: filename
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 307518      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1267/kgenethli)   Gid: ( 1269/kgenethli)
+Access: 2024-12-19 13:08:29.144750139 +0200
+Modify: 2024-12-19 13:08:29.144750139 +0200
+Change: 2024-12-19 13:08:29.144750139 +0200
+ Birth: -
+mv: cannot stat 'oldname.txt': No such file or directory
+cp: cannot stat 'source.txt': No such file or directory
+rm: cannot remove 'file_to_delete.txt': No such file or directory
+rm: cannot remove 'file_to_delete.txt': No such file or directory
+rm: cannot remove 'file_to_delete.txt': No such file or directory
+rmdir: failed to remove 'empty_directory': No such file or directory
+rm: cannot remove 'directory_to_delete': No such file or directory
+./source.txt
+./newname.txt
+./destination.txt
+cat: file.txt: No such file or directory
+tail: cannot open 'file1.txt' for reading: No such file or directory
+head: cannot open 'file1.txt' for reading: No such file or directory
+file1.txt: No such file or directory
